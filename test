@@ -1,0 +1,41 @@
+ <section class="about" id="about">
+        <h2>About Me</h2>
+        <p>I'm a passionate front-end and back-end programmer with a strong background in building dynamic and responsive web applications. I specialize in creating seamless user experiences and robust server-side logic. My skill set includes HTML, CSS, JavaScript, React, Node.js, and various other technologies. I am dedicated to continuous learning and always excited to take on new challenges in the tech world.</p>
+         
+    
+
+        <div class="imge-profile">
+            <!-- img profile -->
+            <img src="images/profile.jpeg" class="mb-3px"  alt="...">
+
+            <!-- typing -->
+            <div id="typing-container" class="typing-effect"></div>
+
+            <div class="link mt-10px" >
+                <i class="fab fa-facebook "></i>
+                <i class="fab fa-whatsapp"></i>
+                <button type="button" class="btn btn-outline-secondary">Download CV</button>
+
+            </div>
+        </div>
+    </section> 
+
+    <div class="spikes"></div>
+    <section  class="projects" id="projects">
+        <h2 class="">My Projects</h2>
+        <div class="project-card">Project 1</div>
+        <div class="project-card">Project 2</div>
+        <div class="project-card">Project 3</div>
+        <div class="project-card">Project 3</div>
+        <div class="project-card">Project 3</div>
+        <div class="project-card">Project 3</div>
+        <div class="project-card">Project 3</div>
+        <div class="project-card">Project 3</div>
+        
+    </section>
+    <div class="spikes2"></div>
+
+    <section class="contact" id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: example@example.com</p>
+    </section>
